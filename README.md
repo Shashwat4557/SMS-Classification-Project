@@ -17,14 +17,15 @@ The results show that the TF-IDF vectorizer with Bernoulli Navie Bayes classifie
 Based on the results, it can be concluded that using TF-IDF with Bernoulli Navive Bayes classifier is more reliable and accurate in predicting the outcome of the given dataset. This project can be extended further by exploring other vectorization techniques and machine learning algorithms.
 
 ## Dependencies
-matplotlib
-scikit-learn
-pandas
-seaborn
-nltk
-numpy
-string
-wordcloud
-collections
-pickle
-streamlit
+
++ matplotlib
++ scikit-learn
++ pandas
++ seaborn
++ nltk
++ numpy
++ string
++ wordcloud
++ collections
++ pickle
++ streamlit
