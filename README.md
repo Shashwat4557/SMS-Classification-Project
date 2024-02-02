@@ -11,7 +11,7 @@ Firstly, the raw text messages were preprocessed. The preprocessing involved rem
 Finally, the performance of the models was compared based on their accuracy on the training and test sets. Based on the results, it was concluded that the TF-IDF Vectorizer with Bernoulli Navie Bayes classifier is more reliable and accurate in predicting the outcome of the given dataset.
 
 ## Results
-The results show that the TF-IDF vectorizer with Bernoulli Navie Bayes classifier outperforms the other models. The Bernoulli Navive Bayes model achieved an accuracy of** 0.988394584139265** and the precision score is **1.0**, compared to an accuracy of **0.9748549323017408** and precision score of **1.0** of Multinomial Navie Bayes and accuracy of **0.8781431334622823** and precision score of **0.5267857142857143** of Gaussian Navie Bayes achieved by the TF-IDF Vectorizer.
+The results show that the TF-IDF vectorizer with Bernoulli Navie Bayes classifier outperforms the other models. The Bernoulli Navive Bayes model achieved an accuracy of **0.988394584139265** and the precision score is **1.0**, compared to an accuracy of **0.9748549323017408** and precision score of **1.0** of Multinomial Navie Bayes and accuracy of **0.8781431334622823** and precision score of **0.5267857142857143** of Gaussian Navie Bayes achieved by the TF-IDF Vectorizer.
 
 ## Conclusions
 Based on the results, it can be concluded that using TF-IDF with Bernoulli Navive Bayes classifier is more reliable and accurate in predicting the outcome of the given dataset. This project can be extended further by exploring other vectorization techniques and machine learning algorithms.
